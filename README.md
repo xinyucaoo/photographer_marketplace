@@ -1,11 +1,11 @@
 # Airbnb Clone
 <br>
-It is responsive on any screen devices so you can play it any device you wish :)
+It is responsive on any screen devices so you can explore it on any device you wish :)
 <hr>
 
 ## Working App can be found here
 
-https://expanding-cards-web.vercel.app/
+https://airbnb-clone-react-web.vercel.app/
 
 ## Tech Stack used is
 
@@ -23,17 +23,36 @@ https://expanding-cards-web.vercel.app/
 <hr>
 
 ## Run Locally
-Clone the project
+Clone the repository:
 
 ```bash
-  git clone https://github.com/Chirag047/Expanding-Cards.git
+  git clone https://github.com/Chirag047/Airbnb-Clone.git
 ```
-Go to the project directory
+Go to the project directory:
 
 ```bash
-  cd Expanding-Cards
+  cd Airbnb-Clone
 ```
-Start the development by running file index.html with live server extension.
+Install the dependencies for the project:
+
+```bash
+  npm install --legacy-peer-deps
+```
+Create build folder:
+
+```bash
+  npm run build
+```
+Start the frontend development server:
+
+```bash
+  cd public/npm run start
+```
+Access the application at :
+
+```bash
+  http://localhost:3000
+```
 
 <hr>
   
