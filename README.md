@@ -1,5 +1,5 @@
 # Airbnb Clone
-It is a functional design clone of Airbnb website built using reactjs and tailwind CSS to make it look attractive and it look alike airbnb offiical website only. It is just a concept of Airbnb website.
+It is a functional design clone of Airbnb website built using reactjs and tailwind CSS to make it look attractive It is just a concept of Airbnb website.
 <br><br>
 It is responsive on every screen devices :)
 <hr>
