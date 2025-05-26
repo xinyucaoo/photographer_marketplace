@@ -7,11 +7,9 @@ import Filter from "./Filter";
 
 const Filters = () => {
   const sorting = [
-    { title: "Boat", icon: <GiFishingBoat /> },
-    { title: "New", icon: <GiMineExplosion /> },
-    { title: "Unique", icon: <RiAliensFill /> },
-    { title: "Private", icon: <ImKey /> },
-    { title: "Forest", icon: <BsFillTreeFill /> },
+    { title: "Portrait", icon: <GiFishingBoat /> },
+    { title: "Shanghai", icon: <GiMineExplosion /> },
+    { title: "Experienced", icon: <ImKey /> },
   ];
   return (
     <div className="   ">
